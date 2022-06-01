@@ -1,2 +1,2 @@
-# alx-system_engineering-devops
-script writing 
+#!/bin/bash
+ls
