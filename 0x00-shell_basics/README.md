@@ -1,4 +1,4 @@
 list of working directory
 #!/bin/bash
-ls
+1-listit
 
